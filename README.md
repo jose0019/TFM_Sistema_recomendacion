@@ -6,8 +6,6 @@ Los modelos utilizados incluyen una gran variedad de algoritmos principalmente c
 
 Por último, se usarán las métricas recall@k, precision@k y map@k para evaluar los algoritmos y se lleva a cabo un análisis comparativo de las métricas con el fin de determinar el algoritmo más eficaz del sistema de recomendación. Es importante destacar que para realizar la comparativa se toma como modelo base el "Popularity" o de popularidad.
 
-# La ruta al repositorio es la siguiente:
-https://github.com/jose0019/TFM_Sistema_recomendacion.git
 
 # Autor:
 Jose Antonio Nazar Aláez     Correo: jose.nazar@cunef.edu
